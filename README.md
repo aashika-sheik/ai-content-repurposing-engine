@@ -60,8 +60,8 @@ Through this project, I gained hands-on experience with:
 - OAuth 2.0 authentication
 - Building automated data pipelines with n8n
 
-## Project Structure
 
+## Project Structure
 ```text
 ai-content-repurposing-engine/
 ├── README.md
@@ -69,6 +69,7 @@ ai-content-repurposing-engine/
 └── screenshots/
     ├── workflow.png
     └── google-sheets-output.png
+```
 
 ## Demo
 
